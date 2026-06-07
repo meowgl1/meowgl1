@@ -2,7 +2,7 @@
 
 # Thomas Galindo
 
-**Junior AI Engineer · Full-Stack Developer**  
+**AI Engineer · Full-Stack Developer**  
 Melbourne, Australia
 
 [mowgli.studio](https://mowgli.studio) &nbsp;·&nbsp; [linkedin.com/in/thomas-galindo](https://linkedin.com/in/thomas-galindo)
@@ -22,20 +22,21 @@ Currently completing a Bachelor of Software Engineering (AI specialization) at T
 
 | Project | What it does | Stack | Status |
 |---------|-------------|-------|--------|
-| [**.studio**](https://github.com/meowgl1/studio) | AI-agnostic context management system — gives any coding agent consistent, layered understanding of a project before each session | Python | `public` |
+| [**.studio**](https://github.com/meowgl1/studio) | AI-agnostic context management system — gives any coding agent consistent, layered understanding of a project before each session | Python · Claude Code | `public` |
 | **Baloo** | Autonomous research & publishing platform — agents research, synthesize, and write structured articles and courses; each chapter ends with a quiz | Claude SDK · Next.js · Supabase | `building` |
 | **Jungle** | AI-powered lead scraper — downloads raw HTML, passes it to a local LLM (Ollama) for structured extraction, zero API cost | Python · Ollama · Docker · Supabase | `building` |
-| **Analyst** | Forensic system diagnostic tool — examines security posture, performance, and OS state; produces schema-validated structured reports | Python | `building` |
-| **Bagheera** | API gateway and middleware layer between frontend and backend services; roadmap includes semantic caching for LLM endpoints | TypeScript · Node.js | `building` |
+| [**Analyst**](https://github.com/meowgl1/analyst-system) | Multi-agent security analysis platform — 11 Claude Code agents coordinating across 8 departments, 27 Python scripts, schema-validated reports | Python · Claude SDK | `public` |
+| [**Akela**](https://github.com/meowgl1/akela) | Orchestration layer for the Suite — coordinates agents and services across the ecosystem | Python · TypeScript | `building` |
+| **Bagheera** | API gateway and middleware layer; roadmap includes semantic caching for LLM endpoints | TypeScript · Node.js | `building` |
 
 ---
 
 ### Stack
 
 ```
-AI          Claude SDK/API · AirLLM · Local LLMs · Agentic pipelines · Context engineering · Higgsfield
+AI          Claude SDK/API · AirLLM · Local LLMs (Ollama) · Agentic pipelines · Context engineering
 Backend     Python · TypeScript · Node.js · Docker · Supabase · PostgreSQL · REST APIs
-Frontend    Next.js 14/15 · React · Shopify Liquid · HTML/CSS
+Frontend    Next.js 16 · React 19 · Shopify Liquid · HTML/CSS
 Principles  DDD · Schema-first · Evals-driven · Failure-aware design · Observability
 ```
 
