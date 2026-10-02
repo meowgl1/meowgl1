@@ -1,96 +1,41 @@
-<div align="center">
+# Thomas Galindo
 
-<!-- PIXEL ART HEADER — host this SVG in your repo as assets/header.svg -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=4&section=header" width="100%"/>
+AI engineer in training and e-commerce developer based in Melbourne.
+Finishing a Bachelor of Software Engineering (AI) at Torrens University in November 2026.
 
-```
- ████████╗██╗  ██╗ ██████╗ ███╗   ███╗ █████╗ ███████╗
-    ██╔══╝██║  ██║██╔═══██╗████╗ ████║██╔══██╗██╔════╝
-    ██║   ███████║██║   ██║██╔████╔██║███████║███████╗
-    ██║   ██╔══██║██║   ██║██║╚██╔╝██║██╔══██║╚════██║
-    ██║   ██║  ██║╚██████╔╝██║ ╚═╝ ██║██║  ██║███████║
-    ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝
-```
+[Portfolio](https://mowgli.studio) · [LinkedIn](https://linkedin.com/in/YOUR-FINAL-URL)
 
-**`[ AI Engineer · Full-Stack Developer · Melbourne, AU ]`**
+## About
 
-[![Portfolio](https://img.shields.io/badge/▶_mowgli.studio-000000?style=for-the-badge&logoColor=white)](https://mowgli.studio)
-[![LinkedIn](https://img.shields.io/badge/▶_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-galindo)
+I've spent 4+ years building e-commerce systems: platforms, integrations and automation for small businesses in Italy, and now my own Shopify store.
+I'm moving that experience toward AI engineering, and I'm focusing on the fundamentals: how models, retrieval and evaluation actually work.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=4&section=footer" width="100%"/>
+## Now
 
-</div>
+- Final-year capstone at Torrens (group project). I'm the project manager and an AI engineer.
+  The repo will go public once there is working code to show.
+- Working through the IBM AI Engineering Professional Certificate.
 
-&nbsp;
+## Experience
 
-## `> whoami`
+| Role | Where | Dates |
+|---|---|---|
+| Founder | Rhytm, wellness brand | Apr 2026 to present |
+| Co-founder & Developer | Cartalytic, e-commerce startup (Brescia, Italy) | Mar 2021 to Mar 2025 |
+| Full-stack Developer | 6chic, digital agency (Brescia, Italy) | Aug 2020 to Dec 2022 |
 
-Hey, nice to meet you 👋🏼
+- **Rhytm:** built the store on Shopify and automated processes, design and marketing.
+- **Cartalytic:** custom e-commerce builds (PrestaShop), catalog and inventory automation, a price-comparison scraper, SEO positioning.
+- **6chic:** WordPress websites/portfolio and custom web-platforms for businesses.
 
-I'm Thomas. I build AI systems that can ship solid structures.
+## Education
 
-This profile is where I show what I'm currently working on. Not polished marketing, just real projects I'm figuring out as I go. I use multiple AI models for different tasks depending on what makes sense to me. Iit saves time, saves money, and produces better results than locking into one.
+- Bachelor of Software Engineering (AI), Torrens University Australia, Feb 2024 to Nov 2026
+- Diploma in Computer Programming, I.T.I.S. "B. Castelli", Brescia, 2015 to 2021
 
-I've been building as a full-stack developer for 4 years. At some point I decided to stop and go deeper, back to fundamentals, proper engineering, real computer science. I always believed you can do things better if you understand *why* they work. That's what I'm doing now.
+## Stack
 
-Currently finishing a Bachelor of Software Engineering (AI specialization) at Torrens University Australia.
-
-&nbsp;
-
-## `> ls ./projects`
-
-> **Why Jungle Book names?**
-> I'm genuinely bad at naming things. If you're a developer you get it. Ever spent 2 minutes stuck on what to call a variable? The Jungle Book is my solution. Every project in this suite is named after a character. It doesn't mean anything technical. It just means I can keep building instead of getting lost in a naming spiral.
-
-&nbsp;
-
-### 🐦 [**Blogger**](https://github.com/meowgl1/baloo) *(in production)*
-
-**What it does:** An autonomous AI content pipeline that drives Rhytm's organic content end to end.
-
-**What problem it solves:** Growing organic traffic for an e-commerce store without a manual content team. Blogger drafts source-verified articles, auto-extracts keywords to build matching Instagram posts, and runs under observability to catch drift and evaluate output quality over time. Unlike the rest of the projects here, this one is live in production, driving real traffic today.
-
-`Python · Claude SDK · Prompt Engineering · Observability · Harness Engineering`
-
----
-
-### 🐺 [**Akela**](https://github.com/meowgl1/akela)
-
-A small local RAG system I built to learn the fundamentals of retrieval-augmented generation: document chunking strategies, embedding models, and retrieval quality tradeoffs, running entirely locally over my own notes and documents. A learning project, not a product.
-
-`Python · TypeScript · Ollama · Graph RAG`
-
-&nbsp;
-
-## `> ls ./shipped`
-
-Things I've built and sent into the world:
-
-| | |
-|---|---|
-| **[rhytm.store](https://rhytm.store)** | Shopify store I own. I use it as a live lab for CRO, funnel testing, and AI-assisted e-commerce ops. Real traffic, real data. |
-| **[basefundamentals.store](https://basefundamentals.store)** | Second Shopify store. It's a martial arts sportswear. Same idea: test automation and e-commerce systems on a real business, not a sandbox. |
-| **E-commerce builds** | Co-founder. 2 years building e-commerce platforms: PrestaShop, Shopify, custom PHP, Cloud, Serverless, Vue.js. From zero to live.  [Cartalytic agency](https://cartalytic.com).|
-| **20+ freelance projects** | 4 years building web platforms: WordPress, Vue.js, PHP, Cloud, Serverless. For clients in retail, wellness, B2B, and hospitality through [6chic agency](https://6chic.net). |
-| **Blogger** | Agentic content pipeline live in production on rhytm.store: drafts articles, extracts keywords, generates social posts, runs under observability. |
-
-&nbsp;
-
-## `> cat stack.txt`
-
-```
-AI ········· Claude SDK/API · Ollama · Multi-agent systems · RAG
-            Agentic pipelines · Context engineering · Loop engineering
-Backend ···· Python · TypeScript · Node.js · Docker · SQL · PHP · Cloud AWS
-Frontend ··· Next.js · Tailwind CSS · Shopify Liquid
-E-commerce · Shopify · PrestaShop · CRO · Funnel optimization · SEO & AEO
-```
-
-&nbsp;
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=4" width="100%"/>
-
-`// always building · always learning`
-
-</div>
+Python @Torrens University
+TypeScript, Node.js, SQL @Cartalytic
+PHP @6Chic
+In progress: IBM AI engineer certificate
